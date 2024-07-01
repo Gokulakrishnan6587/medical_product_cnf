@@ -1,0 +1,84 @@
+/*header section*/
+body
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.header1
+{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 50px;
+    font-size: 20px;
+}
+.header1 button
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    background-color: #1D232C;
+    color: white;
+    font-size: 15px;
+}
+/*service section*/
+
+.service1
+{
+    padding: 20px;
+    font-size: medium;
+}
+.service-container-1
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.service-container-2
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px;
+}
+.service-container-2 div{
+    background-color: #F2F4F7;
+    border-radius: 15px;
+    padding: 10px;
+}
+/*new arrivals*/
+.new-arrival1
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.new-arrivals-container
+{
+    position: relative;
+    flex-basis: 20%;
+    margin-bottom: 30px;
+}
+.new-arrival1 button
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 10px;
+    position: absolute;
+    top: 40%;
+    left: 18%;
+    color: #1D232C;
+    border: none;
+    border-radius: 10px;
+}
+.new-arrival1 button:hover
+{
+    cursor: pointer;
+    color: red;
+}
