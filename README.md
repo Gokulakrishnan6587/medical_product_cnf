@@ -63,5 +63,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Contact
-For any questions or inquiries, please contact Gokulakrishnan6587 at your-email@example.com.
+For any questions or inquiries, please contact Gokulakrishnan6587 at gokulakrishnan6587@gmail.com
 
